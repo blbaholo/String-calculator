@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!README.md
+!requirements.txt
+!setup.py
+!tests/
+!string_calculator/
+!string_calculator/calculator.py
+!tests/test_calculator.py
